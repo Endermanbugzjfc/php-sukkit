@@ -11,5 +11,5 @@ echo "                     `. ___
                    `-:._____/______/___/____`.     \  `
                                |       `._    `.    \
                                `._________`-.   `.   `.___
-                                             SSt  `------'`\n\nPHP-SUKKITX\nThe divine, solar powered software designed for Minecraft: Bedrock Edition\nThis project is infpied by https://github.com/SukkitX";
+                                             SSt  `------'`\n\nPHP-SUKKITX\nThe divine, solar powered server software designed for Minecraft: Bedrock Edition\nThis project is infpied by https://github.com/SukkitX";
 shell_exec("./PocketMine-MP.phar"); // TODO: Fix this shit
