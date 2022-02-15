@@ -1,5 +1,5 @@
 <?php
-echo "                     `. ___
+echo <<<EOT                     `. ___
                     __,' __`.                _..----....____
         __...--.'``;.   ,.   ;``--..__     .'    ,-._    _.-'
   _..-''-------'   `'   `'   `'     O ``-''._   (,;') _,'
@@ -12,5 +12,6 @@ echo "                     `. ___
                    `-:._____/______/___/____`.     \  `
                                |       `._    `.    \
                                `._________`-.   `.   `.___
-                                             SSt  `------'`\n\nPHP-SUKKITX\nThe divine, solar powered server software designed for Minecraft: Bedrock Edition\nThis project is infpied by https://github.com/SukkitX";
+                                             SSt  `------'`\n\nPHP-SUKKITX\nThe divine, solar powered server software designed for Minecraft: Bedrock Edition\nThis project is infpied by https://github.com/SukkitX
+EOT;
 shell_exec("./PocketMine-MP.phar"); // TODO: Fix this shit
